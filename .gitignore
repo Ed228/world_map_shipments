@@ -151,3 +151,4 @@ sftp-config.json
 
 ### Intellij idea ###
 .idea
+*.iml
